@@ -125,7 +125,7 @@ public class Example3 {
 		  
         Scanner sc = new Scanner(System.in);
          
-        System.out.println("Voy a cambiar este mensaje a las 12.50");
+        System.out.println("Voy a cambiar este mensaje a las 11.50");
         String dia = sc.next();
          
         switch(dia){
