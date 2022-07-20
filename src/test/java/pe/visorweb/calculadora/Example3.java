@@ -125,7 +125,7 @@ public class Example3 {
 		  
         Scanner sc = new Scanner(System.in);
          
-        System.out.println("Introduce un dia de la semana");
+        System.out.println("Voy a cambiar este mensaje a las 12.50");
         String dia = sc.next();
          
         switch(dia){
